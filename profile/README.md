@@ -12,7 +12,8 @@ Varje grupp har sin sandbox
 <br>https://github.com/Campus-Molndal-CLO22/Kodaporna-Sandbox
 <br>https://github.com/Campus-Molndal-CLO22/Kodaporna-Sandbox2
 
-🌈 Contribution guidelines - Studenterna kommer att få egna repos att använda, och där kan ni göra vad ni vill.
+## Regler ##
+🌈 Contribution guidelines - Studenterna kommer att få egna repos att använda, och där kan ni göra vad ni vill. Men radera inte era sandboxar ;)
 
 👩‍💻 Useful resources - Tanken är att allt arbete vi gör online kommer att finnas här!
 
