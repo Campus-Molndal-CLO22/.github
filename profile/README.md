@@ -4,6 +4,10 @@
 <br>All livekod finns här: https://github.com/Campus-Molndal-CLO22/Lektionsmaterial
 <br>Alla självtester finns här: https://github.com/Campus-Molndal-CLO22/Kodutmaning
 
+## Github classroom ##
+Vi kommer att använda Github Classroom för uppgifter, läxor och inlämingar
+så ta gärna en titt där och kolla vad det finns för gottis tillgängligt.
+
 ## Sandboxar ##
 Varje grupp har sin sandbox
 <br>https://github.com/Campus-Molndal-CLO22/PentaCloud
