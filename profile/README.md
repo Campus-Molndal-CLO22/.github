@@ -7,6 +7,9 @@
 ## Github classroom ##
 Vi kommer att använda Github Classroom för uppgifter, läxor och inlämingar
 så ta gärna en titt där och kolla vad det finns för gottis tillgängligt.
+https://classroom.github.com/classrooms/112094277-campus-molndal-clo22
+och självklart Google Klassroom
+https://classroom.google.com/u/0/w/NTU3ODQ4Nzk3MDgy/t/all
 
 ## Sandboxar ##
 Varje grupp har sin sandbox
