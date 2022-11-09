@@ -7,9 +7,13 @@
 - [Alla självtester finns här](https://github.com/Campus-Molndal-CLO22/Kodutmaning)
 
 ## Github classroom ##
-Vi kommer att använda [Github Classroom](https://classroom.github.com/classrooms/112094277-campus-molndal-clo22/) för uppgifter, läxor och inlämingar så ta gärna en titt där och kolla vad det finns för gottis tillgängligt.
+Där genererar jag knepiga repos för er att koda i.
+- [Git grundkurs](https://classroom.github.com/a/B9Xz7QrX)
+- [Classroom övning](https://classroom.github.com/a/rwJhDhee)
+- [Filmdatabas](https://classroom.github.com/a/6RnXKxPH)
 
-Om länken krånglar, försök med [direktlänk till Classrooms](https://classroom.github.com/) och självklart har vi [Google Klassroom](https://classroom.google.com/u/0/w/NTU3ODQ4Nzk3MDgy/t/all)
+## Github classroom ##
+[Google Klassroom](https://classroom.google.com/u/0/w/NTU3ODQ4Nzk3MDgy/t/all), där samlar vi alla uppgifter.
 
 ## Sandboxar ##
 Varje grupp har sin sandbox
