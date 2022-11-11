@@ -5,6 +5,8 @@
 
  - [All livekod finns här](https://github.com/Campus-Molndal-CLO22/Lektionsmaterial)
 - [Alla självtester finns här](https://github.com/Campus-Molndal-CLO22/Kodutmaning)
+- [Dokument om kod som ska ersätta PDF filerna](https://github.com/Campus-Molndal-CLO22/Dokument)
+- [Exempel på en logger och config läsare](https://github.com/Campus-Molndal-CLO22/MySecretStash)
 
 ## Github classroom ##
 Där genererar jag knepiga repos för er att koda i.
