@@ -1,11 +1,11 @@
-
 ## Välkommen Cloudkodare 👋
 
 🙋‍♀️ På den här länken kommer jag (Marcus) att publicera all kod vi använder under kurserna. 
 
- - [All livekod finns här](https://github.com/Campus-Molndal-CLO22/Lektionsmaterial)
+- [All livekod finns här](https://github.com/Campus-Molndal-CLO22/Lektionsmaterial)
 - [Alla självtester finns här](https://github.com/Campus-Molndal-CLO22/Kodutmaning)
 - [Dokument om kod som ska ersätta PDF filerna](https://github.com/Campus-Molndal-CLO22/Dokument)
+- [En beta test för snyggare dokument](https://campusmolndaleducation.github.io/CLO22/)
 - [Exempel på en logger och config läsare](https://github.com/Campus-Molndal-CLO22/MySecretStash)
 
 ## Github classroom ##
@@ -14,8 +14,8 @@ Där genererar jag knepiga repos för er att koda i.
 - [Classroom övning](https://classroom.github.com/a/rwJhDhee)
 - [Filmdatabas](https://classroom.github.com/a/6RnXKxPH)
 
-## Github classroom ##
-[Google Klassroom](https://classroom.google.com/u/0/w/NTU3ODQ4Nzk3MDgy/t/all), där samlar vi alla uppgifter.
+## Github student ##
+[Dina fördelar](https://education.github.com/benefits?type=student)
 
 ## Sandboxar ##
 Varje grupp har sin sandbox
@@ -34,6 +34,6 @@ Men radera inte era sandboxar ;)
 
 🍿 Fun facts - Ni är beta-testare för det här. jag har inte en aning hur Github organizations funkar :D
 
-🧙 Hoppas ni trivs här!
+🧙 Hoppas ni trivs här! Vill ni visa er material för era kurskamrater, så skapa publika repos. 
 
 ![giphy](https://user-images.githubusercontent.com/74178301/199276610-91c66418-89b6-460a-ac41-c2fe6737b84a.gif)
